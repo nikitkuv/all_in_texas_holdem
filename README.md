@@ -1,5 +1,5 @@
 # all_in_texas_holdem
-All-in version of Texas Holdem Poker card game
+All-in console version of Texas Holdem Poker card game
 
 Structure:
 1. poker_all_in.py - file to start the game: the main code of game logic;
