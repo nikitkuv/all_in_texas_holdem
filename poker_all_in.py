@@ -46,7 +46,7 @@ while len(players) != 1:
         else:
             dealer_index, bb_index = 0, 0
             sb_index = 1
-        small_blind = float(5)  # связать эту переменную с временем: ввести засечение времени и менять ее после определенного периода
+        small_blind = float(5)  
         big_blind = float(2 * small_blind)
         in_game[sb_index][1] -= small_blind
         if in_game[bb_index][1] >= big_blind:
